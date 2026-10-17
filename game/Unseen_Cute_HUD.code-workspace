@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Library/Mobile Documents/com~apple~CloudDocs/Unseen_Cute_HUD"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*.rpyc": true,
+			"**/*.rpa": true,
+			"**/*.rpymc": true,
+			"**/cache/": true
+		}
+	}
+}
